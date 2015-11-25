@@ -1,0 +1,8 @@
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\bin\Release\WindowsFormsApplicationChart.exe
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\bin\Release\WindowsFormsApplicationChart.pdb
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\obj\Release\WindowsFormsApplicationChart.mainForm.resources
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\obj\Release\WindowsFormsApplicationChart.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\obj\Release\WindowsFormsApplicationChart.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\obj\Release\WindowsFormsApplicationChart.exe
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\obj\Release\WindowsFormsApplicationChart.pdb
+C:\Users\Andrey\Desktop\Chart\WindowsFormsApplicationChart\WindowsFormsApplicationChart\obj\Release\WindowsFormsApplicationChart.csprojResolveAssemblyReference.cache
